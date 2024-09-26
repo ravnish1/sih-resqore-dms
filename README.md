@@ -9,9 +9,9 @@ Currently, two official plugins are available:
 
 
 install these packages 
-react: ^18.0.0
-react-dom: ^18.0.0
-react-router-dom: ^6.0.0
-react-hook-form: ^7.0.0
-react-icons: ^4.0.0
-tailwindcss: ^3.0.0
+*react: ^18.0.0
+*react-dom: ^18.0.0
+*react-router-dom: ^6.0.0
+*react-hook-form: ^7.0.0
+*react-icons: ^4.0.0
+*tailwindcss: ^3.0.0
